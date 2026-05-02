@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import utils
 
-data_path = 'Data\Churn_Modelling.csv'
+data_path = 'Data/Churn_Modelling.csv'
 
 st.set_page_config("Zyntra - Bank Customer Churn Predictor", layout="wide")
 
